@@ -2,7 +2,7 @@
 
 Anonymization Layer (AL) is a transparent, protocol agnostic layer to further enhance the privacy of network communication. It achieves this by removing data flow directionality, hiding message content and packet context, and providing tunable pseudo responses. Specifically, AL was developed specifically as a defense against association-based inference attacks, such as IDBleed on exclusive-use communication patterns.
 
-For more detailed information, please explore our paper ["Deanonymizing Device Identities via Side-channel Attacks in Exclusive-use IoTs & Mitigation"](https://www.ndss-symposium.org/wp-content/uploads/2025-703-paper.pdf) which was published in Network & Distributed System Security (NDSS) 2025.
+For more detailed information, please explore our paper ["Deanonymizing Device Identities via Side-channel Attacks in Exclusive-use IoTs & Mitigation"](https://www.ndss-symposium.org/wp-content/uploads/2025-703-paper.pdf) which was published in Network & Distributed System Security (NDSS) 2025. AL was developed by the first author, Christopher Ellis.
 
 ## Building
 
